@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_test</name>
+  <version>0.0.0</version>
+  <description>The ros_test package</description>
+
+  <maintainer email="sacko87@gmail.com">Andrew Sack</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <build_depend>turtlesim</build_depend>
+  <exec_depend>turtlesim</exec_depend>
+  <build_depend>roscpp</build_depend>
+  <exec_depend>roscpp</exec_depend>
+
+</package>
